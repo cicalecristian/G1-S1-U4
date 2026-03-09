@@ -41,5 +41,6 @@ public class Es3 {
 
         double area = areaTriangolo(lato1, lato2, lato3);
         System.out.println("L'area del triangolo è: " + area);
+        System.out.println("prova git");
     }
 }
